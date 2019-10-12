@@ -1,0 +1,23 @@
+form{
+    text-align: center;
+    margin: 10px;
+}
+input{
+    margin: 4px;
+}
+.searchInput{
+    width: 200px;
+    height: 15px;
+}
+.searchBtn{
+    height: 20px;
+}
+.searchBtn:hover{
+    background-color: rgba(19, 7, 41, 0.993);
+    color: rgb(111, 208, 233);
+    border-color: transparent;
+}
+p{
+    font-size: 18px;
+    margin-top: 10px;
+}

@@ -1,0 +1,37 @@
+.footerBody {
+  background-color: rgba(19, 7, 41, 0.993);
+  color: rgb(10, 199, 247);
+  height: 25vh;
+  margin-top: 10%;
+  margin-bottom: 0px;
+}
+.footDiv {
+  display: flex;
+  justify-content: space-around;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+li {
+  text-align: left;
+  list-style: none;
+  margin: 10px;
+  padding: 5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+li:hover{
+    color: rgb(255, 174, 0);
+}
+.inputbtn{
+    background: rgb(255, 174, 0);
+    color: black;
+    border-color: transparent;
+    box-shadow: 4px;
+}
+.footerPar{
+    margin: 38px 30px 0px 30px;
+    color: rgb(255, 174, 0);
+    font-size: 16px;
+}

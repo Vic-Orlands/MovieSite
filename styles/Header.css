@@ -1,0 +1,11 @@
+.headerbody{
+    background-color: rgba(19, 7, 41, 0.993);
+    color: rgb(10, 199, 247);
+    height: 18vh;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 42px;
+}
